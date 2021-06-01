@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Paula Rodrigues da Silva
+## Olá!!!! Eu sou a Paula Rodrigues da Silva
  <div>
   <a href="https://github.com/rodriguespaula1003">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodriguespaula1003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
